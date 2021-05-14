@@ -1,0 +1,21 @@
+.btn-block{
+    width:100%;
+}
+
+
+.pass_visibility_wrapper{
+    position: relative;
+}
+.pass_visibility_wrapper i {
+    position: absolute;
+    right: 26px;
+    top:9px;
+    cursor: pointer;
+}.auth-form{
+    padding-bottom: 1em !important;
+}.auth-icon{
+    user-select: none;
+    display: inline-block;
+    border-radius: 50%;
+    padding: 8px;
+}

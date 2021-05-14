@@ -1,0 +1,12 @@
+.under-parent{
+    width:100%;
+    position: absolute !important;
+    padding:'0px 2em';
+    bottom: 0 !important;
+    margin-bottom: 0px !important;
+}.github_icon{
+    border-style: none;
+     height: 18px;
+    position: relative;
+    top: 2px !important;
+}
