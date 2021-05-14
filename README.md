@@ -1,2 +1,1 @@
-# url-shrinker-Reactjs-ExpressJs
-Full functional application with Authentication &amp; Authorization system.
+##I've provided all the mechanism needed without adding error handlers :)
